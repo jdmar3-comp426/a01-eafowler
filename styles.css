@@ -65,3 +65,7 @@ nav ul li a:hover {
 nav ul li a:visited {
   color: #fff;
 }
+nav ul li a#thispage {
+  border-style: none none solid none;
+  border-color: #ff5733;
+}
